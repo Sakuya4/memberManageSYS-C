@@ -14,10 +14,8 @@
 
 ## 使用方法
 #### 1. 編譯程式碼：
-`gcc -o member_management member_management.c`
-#### 2. Run it：
-`./member_management`
-#### 3. Call help：
+run `memberMangeSYS-1.0`
+#### 2. Call help：
 使用`help`查看幫助並使用。
 
 ## 資料結構使用
